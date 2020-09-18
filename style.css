@@ -51,6 +51,7 @@ video {
   display: flex;
   justify-content: center;
   background: rgba(255,255,255,0.85);
+  border-radius: 0px 65px;
 }
 
 .input-container {
@@ -84,7 +85,7 @@ input {
   background: #fff;
   outline: none;
   font-family: 'Kalam', cursive;
-
+  border-radius: 0px 22px;
 }
 
 /* Button */
@@ -100,6 +101,7 @@ button {
   cursor: pointer;
   outline: none;
   font-family: 'Kalam', cursive;
+  border-radius: 0px 22px;
 }
 
 button:hover{
