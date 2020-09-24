@@ -14,7 +14,7 @@ const completeElBtn = document.getElementById('complete-button');
 
 let countDownTitle='';
 let countDownDate='';
-let countDownValue=Date;
+let countDownValue= new Date();
 let countDownActive;
 let savedCountdown;
 
